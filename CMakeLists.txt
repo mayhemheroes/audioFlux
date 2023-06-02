@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(audioFlux)
+project(audioflux)
 
 add_executable(fuzzme fuzzme.c)
 
