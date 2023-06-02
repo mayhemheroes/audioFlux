@@ -1,0 +1,5 @@
+project: audioflux
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
